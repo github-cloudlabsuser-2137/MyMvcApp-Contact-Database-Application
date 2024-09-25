@@ -6,19 +6,10 @@
         "value": "myAppServicePlan"
       },
       "webAppName": {
-        "value": "myMvcApp"
-      },
-      "sqlServerName": {
-        "value": "mySqlServer"
-      },
-      "sqlDatabaseName": {
-        "value": "myDatabase"
+        "value": "myWebApp"
       },
       "location": {
-        "value": "East US"
-      },
-      "sqlAdministratorLoginPassword": {
-        "value": "YourStrongPassword123!"
+        "value": "West US"
       }
     }
   }
